@@ -5,3 +5,7 @@ exclude =
     __pycache__,
     manage.py,
     settings.py
+    app/test.py
+    core/admin.py
+    core/management
+    core/tests
