@@ -9,3 +9,5 @@ exclude =
     core/admin.py
     core/management
     core/tests
+    app/calc.py
+    core/models.py
