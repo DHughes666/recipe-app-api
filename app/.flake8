@@ -6,8 +6,16 @@ exclude =
     manage.py,
     settings.py
     app/test.py
+    app/urls.py
     core/admin.py
     core/management
-    core/tests
+    core/tests.py
     app/calc.py
     core/models.py
+    user/views.py
+    user/serializers
+    user/tests
+    recipe/views.py
+    recipe/serializers.py
+    recipe/tests
+    
