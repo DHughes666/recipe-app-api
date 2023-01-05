@@ -9,13 +9,12 @@ exclude =
     app/urls.py
     core/admin.py
     core/management
-    core/tests.py
+    core/tests
     app/calc.py
     core/models.py
     user/views.py
-    user/serializers
+    user/serializers.py
     user/tests
     recipe/views.py
     recipe/serializers.py
     recipe/tests
-    
